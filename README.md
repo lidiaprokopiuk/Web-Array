@@ -1,2 +1,2 @@
 # Web-Array
-page: web-array.netlify.app
+page: https://web-array.netlify.app/
